@@ -3,7 +3,6 @@
 A simple e-commerce mobile application built with Flutter.
 
 📌 Features
-
 Browse products
 Search functionality
 Product details page
